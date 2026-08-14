@@ -12,6 +12,6 @@ This task involves creating a form for faculty to post Thesis Assistant (TA) opp
 
 ## T-86: Browse Internship Opportunities
 This task involves creating a page where students can browse available internship opportunities and view relevant opportunity details.
->>>>>>> 288e058 (feat: implement Browse Internship Opportunities (T-86))
+(feat: implement Browse Internship Opportunities (T-86))
 **Status: Implemented**
 
