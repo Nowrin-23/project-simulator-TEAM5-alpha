@@ -7,3 +7,7 @@ Dashboard displays all pending, active, closed, and expired posting.
 This task allows a faculty member to create and publish a Research Assistant (RA) opportunity post.
 **Status: Implemented**
 
+## T-51: Create a Thesis Assistant (TA) post
+This task involves creating a form for faculty to post Thesis Assistant (TA) opportunities, including fields for thesis title, research area, required skills, number of positions, application deadline, and stipend/credit details.
+**Status: Implemented**
+
