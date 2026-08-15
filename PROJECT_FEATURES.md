@@ -3,6 +3,9 @@
 Dashboard displays all pending, active, closed, and expired posting.
 **Status: Implemented**
 
+## T-16: User registration
+User can signup valid name, email,phone number and etc.
+**Status: Implemented**
 ## T-50: Create a Research Assistant (RA) post
 This task allows a faculty member to create and publish a Research Assistant (RA) opportunity post.
 **Status: Implemented**
